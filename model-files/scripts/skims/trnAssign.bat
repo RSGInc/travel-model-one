@@ -9,7 +9,7 @@ set TRNASSIGNMODE=NORMAL
 set TOTMAXTRNITERS=30
 set MAXPATHTIME=240
 set PCT=%%
-set PYTHONPATH=%USERPROFILE%\Documents\GitHub\NetworkWrangler;%USERPROFILE%\Documents\GitHub\NetworkWrangler\_static
+set PYTHONPATH=E:\projects\clients\solanoNapa\SNABM\NetworkWrangler;E:\projects\clients\solanoNapa\SNABM\NetworkWrangler\_static
 set TRN_ERRORLEVEL=0
 
 :: AverageNetworkVolumes.job uses PREV_ITER=1 for ITER=1
